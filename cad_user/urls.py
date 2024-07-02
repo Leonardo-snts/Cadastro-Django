@@ -24,5 +24,7 @@ urlpatterns = [
     path('',views.home, name='home'),
     #usuarios.com/usuarios
     path('usuarios/', views.usuarios, name='listagem_usuarios'),
+    #page admin
+    #path('admin/', views.admin, name='admin page')
     
 ]
