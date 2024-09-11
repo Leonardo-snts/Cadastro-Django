@@ -18,7 +18,7 @@ Clone este repositório para o seu ambiente local:
 git clone https://github.com/Leonardo-snts/Cadastro-Django.git
 cd Cadastro-Django
 ```
-### ### 2. Criar e ativar um ambiente virtual (venv)
+### 2. Criar e ativar um ambiente virtual (venv)
 
 Criação de uma venv:
 
