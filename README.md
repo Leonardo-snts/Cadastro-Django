@@ -15,7 +15,7 @@ Siga os passos abaixo para configurar corretamente o ambiente de desenvolvimento
 Clone este repositório para o seu ambiente local:
 
 ```bash
-git clone [https://github.com/Leonardo-snts/Detec-o-de-Imagens.git](https://github.com/Leonardo-snts/Cadastro-Django.git)
+git clone https://github.com/Leonardo-snts/Cadastro-Django.git
 cd Cadastro-Django
 ```
 ### ### 2. Criar e ativar um ambiente virtual (venv)
